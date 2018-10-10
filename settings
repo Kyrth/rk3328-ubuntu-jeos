@@ -1,0 +1,19 @@
+# Image settings
+image_size=4096 # Set the default .img size, 4Gb
+
+# Network config
+image_hostname=""
+image_ip=""
+image_netmask=""
+image_gateway=""
+image_dns="" # DNS Server IP, seperate by space
+
+# User details
+rootpass=""
+username=""
+userpass=""
+
+# VPN details
+vpnname=""
+vpnpass=""
+vpnfile="client.conf"
